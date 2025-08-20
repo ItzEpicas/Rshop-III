@@ -1,0 +1,3 @@
+[submodule "RShop"]
+    path = RShop
+    url = https://github.com/Rshop-site/RShop.git
